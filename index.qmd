@@ -1,19 +1,25 @@
 ---
-title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/FrogInArmor.jpg
 ---
 
 :::{#me}
 
-## Goals
 
-## Education
+## Project 1
 
-## Experience
+## Project 2
+
+## Project 3
+
+## Project 4
+
+## Project 5
+
+## Project 6
+
 
 :::
 
-This is a test!

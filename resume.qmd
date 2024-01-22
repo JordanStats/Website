@@ -2,8 +2,42 @@
 title: "Resume"
 ---
 
+# Alan Jordan
+Data Analyst
+2530 Empire Forest Drive, Tucker GA. 30084   
+(404) 933-0357   
+alanjordan101@gmail.com   
+
+
+
 ## Goals
+
+
+## Key Skills   
+Data Analysis   
+R, STATA, and SAS   
+Classification   
+Quasi-Experimental Designs    
 
 ## Education
 
-## Work Experience
+M. A. Economics - 2022   
+Georgia State University   
+
+B.S. Psychology - 1992   
+Georgia State University   
+
+
+## Work Experience   
+Experience   
+1996 – Present   	
+Abel Screening Inc   
+Programmer/Analyst   
+•	Organized data and performed data cleaning for analysis   
+•	Produced ad hoc reports   
+•	Assisted in developing presentations for conferences and clients   
+•	Performed statistical analysis from simple hypothesis tests to building statistical models   
+•	Developed classification models for child sexual abusers   
+•	Developed methodology and planned statistical analysis for presentations and publications   
+•	Wrote up methodology and results sections for publications   
+

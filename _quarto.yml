@@ -8,19 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - resume.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/JordanStats
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Alan Jordan"
 
 format:
   html:
-    theme: cerulean
+    theme: default
     toc: true
 
 editor: source

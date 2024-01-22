@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Analyst 2530 Empire Forest Drive, Tucker GA. 30084\n(404) 933-0357\nalanjordan101@gmail.com\n\n\n\n\n\nData Analysis\nR, STATA, and SAS\nClassification\nQuasi-Experimental Designs\n\n\n\nM. A. Economics - 2022\nGeorgia State University\nB.S. Psychology - 1992\nGeorgia State University\n\n\n\nExperience\n1996 – Present\nAbel Screening Inc\nProgrammer/Analyst\n• Organized data and performed data cleaning for analysis\n• Produced ad hoc reports\n• Assisted in developing presentations for conferences and clients\n• Performed statistical analysis from simple hypothesis tests to building statistical models\n• Developed classification models for child sexual abusers\n• Developed methodology and planned statistical analysis for presentations and publications\n• Wrote up methodology and results sections for publications"
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Analysis\nR, STATA, and SAS\nClassification\nQuasi-Experimental Designs"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "M. A. Economics - 2022\nGeorgia State University\nB.S. Psychology - 1992\nGeorgia State University"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Experience\n1996 – Present\nAbel Screening Inc\nProgrammer/Analyst\n• Organized data and performed data cleaning for analysis\n• Produced ad hoc reports\n• Assisted in developing presentations for conferences and clients\n• Performed statistical analysis from simple hypothesis tests to building statistical models\n• Developed classification models for child sexual abusers\n• Developed methodology and planned statistical analysis for presentations and publications\n• Wrote up methodology and results sections for publications"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
